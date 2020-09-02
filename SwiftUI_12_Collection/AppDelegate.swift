@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  SwiftUI_12_Collection
-//
-//  Created by Everis on 02/09/2020.
-//  Copyright © 2020 Alan. All rights reserved.
-//
+
 
 import UIKit
 
